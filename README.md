@@ -15,11 +15,8 @@ I ensure transparency with clients by discussing the project in detail before pr
 
 ⚡ Tech Stack:
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js
-Other: Git, Netlify
+Frontend: HTML, CSS, JavaScript, React <> Backend: Node.js <> Other: Git, Netlify
+
 📫 Let's Connect!
 
-Portfolio: jackgermain.netlify.app
-Instagram: https://www.instagram.com/fullstackbyjack/
-GitHub: You're already here! 😃
+Portfolio: jackgermain.netlify.app <> Instagram: https://www.instagram.com/fullstackbyjack/ <> GitHub: You're already here! 😃
