@@ -116,19 +116,19 @@ See [my website](https://jackgermain.online/) for more information!
 <h1 align="center">Connect With Me</h1>
 
 <p align="center">
-  <a href="https://jackgermain.online/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+ <a href="https://jackgermain.online/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/jack-germain" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://linkedin.com/in/jack-germain" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/fsjackgermain" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  <a href="https://twitter.com/fsjackgermain" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61569620527551" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61569620527551" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://jackgermainresume.tiiny.site/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://jackgermainresume.tiiny.site/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-FFB300?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
 </p>
