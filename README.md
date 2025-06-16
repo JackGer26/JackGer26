@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gallery/githeader-qBn93RF#T5bRy92" width="100%">
+![Jack Germain](https://imgur.com/a/githeader-qBn93RF)
 
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A full-stack software engineer @100Devs</h3>
