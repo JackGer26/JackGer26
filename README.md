@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A full-stack software engineer @100Devs</h3>
 
-<p align="left"> <a href="https://twitter.com/fsjackgermain" target="blank"><img src="https://img.shields.io/twitter/follow/fsjackgermain?logo=twitter&style=for-the-badge" alt="fsjackgermain" /></a> </p>
 
 - 🔭 I’m currently working on [Bookkept](https://bookkept.netlify.app/)
 
