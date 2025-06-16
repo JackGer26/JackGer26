@@ -28,11 +28,11 @@ See [my website](https://jackgermain.online/) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" height="200" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="https://jackstictactoe.netlify.app/">
-            <img src="https://s14.gifyu.com/images/bHShM.gif" width="100%" alt="Tic-Tac-Toe"/>
+            <img src="https://s14.gifyu.com/images/bHShM.gif" width="100%" height="200" alt="Tic-Tac-Toe"/>
         </a>
         <br />
         <p align="center">
@@ -46,10 +46,10 @@ See [my website](https://jackgermain.online/) for more information!
       </p>
         <p><strong>Javascript, CSS, HTML5</strong> - My own take on the classic Tic-Tac-Toe childhood board game.</p>
     </td>
-    <td width="50%" height="200" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">GamerSails</h3>
         <br />
-            <img src="https://s14.gifyu.com/images/bHShI.gif" width="100%"  alt="GamerSails"/>
+            <img src="https://s14.gifyu.com/images/bHShI.gif" width="100%" height="200" alt="GamerSails"/>
         </a>
         <br />
         <p align="center"> 
@@ -65,11 +65,11 @@ See [my website](https://jackgermain.online/) for more information!
   </tr>
   
   <tr>
-    <td width="50%" height="200" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">JackGermain.online</h3>
       <br />
         <a target="_blank" href="https://jackgermain.online/">
-          <img src="https://s14.gifyu.com/images/bHShR.gif" width="100%" alt="Portfolio"/>
+          <img src="https://s14.gifyu.com/images/bHShR.gif" width="100%" height="200" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -82,11 +82,11 @@ See [my website](https://jackgermain.online/) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" height="200" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Pet Tracker</h3>
         <br />
         <a target="_blank" href="https://petkept.netlify.app/">
-          <img src="https://s14.gifyu.com/images/bHSha.gif" width="100%" alt="PetKept"/>
+          <img src="https://s14.gifyu.com/images/bHSha.gif" width="100%" height="200" alt="PetKept"/>
         </a>
         <br />
         <p align="center">
