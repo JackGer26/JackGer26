@@ -1,4 +1,4 @@
-<img src="https://imgur.com/T5bRy92" width="100%">
+<img src="https://imgur.com/a/qBn93RF" width="100%">
 
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A full-stack software engineer @100Devs</h3>
