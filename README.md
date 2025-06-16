@@ -28,7 +28,7 @@ See [my website](https://jackgermain.online/) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" height="500px" valign="top">
       <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="https://jackstictactoe.netlify.app/">
@@ -46,7 +46,7 @@ See [my website](https://jackgermain.online/) for more information!
       </p>
         <p><strong>Javascript, CSS, HTML5</strong> - My own take on the classic Tic-Tac-Toe childhood board game.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" height="500px" valign="top">
       <h3 align="center">GamerSails</h3>
         <br />
             <img src="https://s14.gifyu.com/images/bHShI.gif" width="100%"  alt="GamerSails"/>
@@ -65,7 +65,7 @@ See [my website](https://jackgermain.online/) for more information!
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" height="500px" valign="top">
       <h3 align="center">JackGermain.online</h3>
       <br />
         <a target="_blank" href="https://jackgermain.online/">
@@ -82,7 +82,7 @@ See [my website](https://jackgermain.online/) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" height="500px" valign="top">
       <h3 align="center">Pet Tracker</h3>
         <br />
         <a target="_blank" href="https://petkept.netlify.app/">
