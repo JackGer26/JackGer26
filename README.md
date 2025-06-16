@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/536JNd9.jpg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A full-stack software engineer @100Devs</h3>
 
