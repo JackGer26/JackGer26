@@ -1,4 +1,25 @@
-<img src="https://i.imgur.com/LlRzpfd.png" width="100%">
+<p align="center">
+  <!-- Replace the image source and links with your actual info -->
+  <img src="https://i.imgur.com/LlRzpfd.png" width="150" alt="Profile Image"/>
+</p>
+
+<p align="center">
+  <a href="https://jackgermain.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/jack-germain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/fsjackgermain" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61569620527551" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://jackgermainresume.tiiny.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFB300?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A full-stack software engineer @100Devs</h3>
@@ -23,13 +44,5 @@
 - ⚡ Fun fact **I am a Leeds United Fan**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jack-germain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jack-germain" height="30" width="40" /></a>
-<a href="https://twitter.com/fsjackgermain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fsjackgermain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jack-germain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-germain" height="30" width="40" /></a>
-<a href="https://fb.com/jack germain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jack germain" height="30" width="40" /></a>
-<a href="https://instagram.com/fullstackbyjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fullstackbyjack" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left">
