@@ -21,28 +21,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A full-stack software engineer @100Devs</h3>
+Software engineer @ 100Devs, I am motivated by the power of technology as a tool for positive change, with a background in Law, Catering & Customer Service
 
-
-- 🔭 I’m currently working on [Bookkept](https://bookkept.netlify.app/)
-
-- 🌱 I’m currently learning **API's & Back-End development**
-
-- 👯 I’m looking to collaborate on [GamerSails](https://gamersails.netlify.app/)
-
-- 🤝 I’m looking for help with [GLHF](https://glhfow2.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://jackgermain.online/](https://jackgermain.online/)
-
-- 💬 Ask me about **JavaScript, Web Design, AI**
-
-- 📫 How to reach me **Jackgermainbusiness@gmail.com**
-
-- 📄 Know about my experiences [https://jackgermainresume.tiiny.site/](https://jackgermainresume.tiiny.site/)
-
-- ⚡ Fun fact **I am a Leeds United Fan**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
+See [my website](https://jackgermain.online/) for more information!
