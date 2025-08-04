@@ -32,7 +32,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="https://jackstictactoe.netlify.app/">
-            <img src="https://s14.gifyu.com/images/bHShM.gif" width="100%" height="350" alt="Tic-Tac-Toe"/>
+            <img src="https://i.imgflip.com/a25gio.gif" width="100%" height="300" alt="Tic-Tac-Toe"/>
         </a>
         <br />
         <p align="center">
@@ -49,7 +49,8 @@ See [my website](https://jackgermain.online/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">GamerSails</h3>
         <br />
-            <img src="https://s14.gifyu.com/images/bHShI.gif" width="100%" height="350" alt="GamerSails"/>
+        <a target="_blank" href="https://gamersails.netlify.app/">
+            <img src="https://i.imgflip.com/a25gt7.gif" width="100%" height="300" alt="GamerSails"/>
         </a>
         <br />
         <p align="center"> 
@@ -69,11 +70,10 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">JackGermain.online</h3>
       <br />
         <a target="_blank" href="https://jackgermain.online/">
-          <img src="https://s14.gifyu.com/images/bHShR.gif" width="100%" height="350" alt="Portfolio"/>
+          <img src="https://i.imgflip.com/a25gng.gif" width="100%" height="300" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://jackgermain.online/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://jackgermain.online/" target="_blank">
@@ -86,7 +86,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">Pet Tracker</h3>
         <br />
         <a target="_blank" href="https://petkept.netlify.app/">
-          <img src="https://s14.gifyu.com/images/bHSha.gif" width="100%" height="350" alt="PetKept"/>
+          <img src="https://i.imgflip.com/a25gq4.gif" width="100%" height="300" alt="PetKept"/>
         </a>
         <br />
         <p align="center">
@@ -109,7 +109,10 @@ See [my website](https://jackgermain.online/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=5a6c5b&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGODB&color=68a063&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=76a85c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
