@@ -32,7 +32,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="https://jackstictactoe.netlify.app/">
-            <img src="https://i.imgflip.com/a25gio.gif" width="100%" height="300" alt="Tic-Tac-Toe"/>
+            <img src="https://i.imgflip.com/a25gio.gif" width="100%" style="max-width: 100%; height: 250px; object-fit: cover;" alt="Tic-Tac-Toe"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">GamerSails</h3>
         <br />
         <a target="_blank" href="https://gamersails.netlify.app/">
-            <img src="https://i.imgflip.com/a25gt7.gif" width="100%" height="300" alt="GamerSails"/>
+            <img src="https://i.imgflip.com/a25gt7.gif" width="100%" style="max-width: 100%; height: 250px; object-fit: cover;" alt="GamerSails"/>
         </a>
         <br />
         <p align="center"> 
@@ -70,7 +70,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">JackGermain.online</h3>
       <br />
         <a target="_blank" href="https://jackgermain.online/">
-          <img src="https://i.imgflip.com/a25gng.gif" width="100%" height="300" alt="Portfolio"/>
+          <img src="https://i.imgflip.com/a25gng.gif" width="100%" style="max-width: 100%; height: 250px; object-fit: cover;" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -86,7 +86,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">Rock Paper Scissors Lizard Spock</h3>
         <br />
         <a target="_blank" href="https://rockpaperscissorslizardspock.netlify.app/">
-          <img src="https://i.imgflip.com/a2bug9.gif" width="100%" height="300" alt="Rock Paper Scissors Lizard Spock"/>
+          <img src="https://i.imgflip.com/a2bug9.gif" width="100%" style="max-width: 100%; height: 250px; object-fit: cover;" alt="Rock Paper Scissors Lizard Spock"/>
         </a>
         <br />
         <p align="center">
