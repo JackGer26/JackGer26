@@ -86,7 +86,7 @@ See [my website](https://jackgermain.online/) for more information!
       <h3 align="center">Rock Paper Scissors Lizard Spock</h3>
         <br />
         <a target="_blank" href="https://rockpaperscissorslizardspock.netlify.app/">
-          <img src="https://i.imgflip.com/a25gq4.gif" width="100%" height="300" alt="Rock Paper Scissors Lizard Spock"/>
+          <img src="https://i.imgflip.com/a2bug9.gif" width="100%" height="300" alt="Rock Paper Scissors Lizard Spock"/>
         </a>
         <br />
         <p align="center">
