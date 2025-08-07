@@ -85,12 +85,12 @@ See [my website](https://jackgermain.online/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Rock Paper Scissors Lizard Spock</h3>
         <br />
-        <a target="_blank" href="https://rockpaperscissorslizardspock.netlify.app/">
+        <a target="_blank" href="https://rock-paper-lizard-9884d45a57bc.herokuapp.com/">
           <img src="https://i.imgflip.com/a2bug9.gif" width="100%" style="max-width: 100%; height: 250px; object-fit: cover;" alt="Rock Paper Scissors Lizard Spock"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/JackGer26/RockPaperScissorsLizardSpock" target="_blank">
+  <a href="https://github.com/JackGer26/Rock-Paper-Scissors-Lizard-Spock" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://rockpaperscissorslizardspock.netlify.app/" target="_blank">
