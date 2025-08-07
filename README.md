@@ -93,7 +93,7 @@ See [my website](https://jackgermain.online/) for more information!
   <a href="https://github.com/JackGer26/Rock-Paper-Scissors-Lizard-Spock" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://rockpaperscissorslizardspock.netlify.app/" target="_blank">
+  <a href="https://rock-paper-lizard-9884d45a57bc.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
